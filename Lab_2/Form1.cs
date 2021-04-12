@@ -27,9 +27,9 @@ namespace Lab_2
             int a = Convert.ToInt32(textBox1.Text);
             int b = Convert.ToInt32(textBox2.Text);
             int c;
-            c = a + b;
+            c = a - b;
             textBox3.Text = Convert.ToString(c);
-            label4.Text = "Сложение";
+            label4.Text = "Вычитание";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -37,9 +37,9 @@ namespace Lab_2
             int a = Convert.ToInt32(textBox1.Text);
             int b = Convert.ToInt32(textBox2.Text);
             int c;
-            c = a - b;
+            c = a + b;
             textBox3.Text = Convert.ToString(c);
-            label4.Text = "Вычитание";
+            label4.Text = "Сложение";
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -47,9 +47,9 @@ namespace Lab_2
             int a = Convert.ToInt32(textBox1.Text);
             int b = Convert.ToInt32(textBox2.Text);
             int c;
-            c = a * b;
+            c = a / b;
             textBox3.Text = Convert.ToString(c);
-            label4.Text = "Умножение";
+            label4.Text = "Деление";
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -57,9 +57,9 @@ namespace Lab_2
             int a = Convert.ToInt32(textBox1.Text);
             int b = Convert.ToInt32(textBox2.Text);
             int c;
-            c = a / b;
+            c = a * b;
             textBox3.Text = Convert.ToString(c);
-            label4.Text = "Деление";
+            label4.Text = "Умножение";
         }
     }
 }
