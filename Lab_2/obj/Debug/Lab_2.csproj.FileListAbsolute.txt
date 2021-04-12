@@ -1,0 +1,10 @@
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\projects\ITEK_Hlusovich_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
